@@ -1,5 +1,8 @@
 Task Tracker Application with Priority Suggestions
+
+
 Project Overview
+
 A sophisticated task management web application that helps users organize and prioritize their tasks effectively. The system uses intelligent algorithms to suggest task priorities based on deadlines and urgency, streamlining the user's workflow and improving productivity.
 Technical Specifications
 Backend Architecture
